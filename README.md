@@ -23,7 +23,7 @@ This plugin helps generating helper files for better code suggestion for laravel
 	composer require --dev barryvdh/laravel-ide-helper
 	```
 2. Save any .php file to generate `facade helper` files
-3. Save any modal file to generate `model helper` files
+3. Save any model file to generate `model helper` files
 
 ## Recommended
 - Publish and customize the configuration for laravel-ide-helper using command for better results. 
